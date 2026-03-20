@@ -2,6 +2,7 @@
 
 The repository contains work-related files at AMD:
 
+1. Documents with useful information about DL, technologies etc
 1. Dockerfiles for different project (IREE, Fusilli, LLVM).
 1. Examples for any tools.
 1. Kernels for testing and analysis.
